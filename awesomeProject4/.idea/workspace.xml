@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83800aa2-c9f2-4362-a476-4ee477f18914" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.11.13" />
+  <component name="ProjectId" id="1V5PQ8HxeswGQx3saZOsTFut7bW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercise2/Q13" />
+      <recent name="$PROJECT_DIR$/Exercise2/Q12" />
+      <recent name="$PROJECT_DIR$/Exercise2/Q11" />
+      <recent name="$PROJECT_DIR$/Exercise2/Q10" />
+      <recent name="$PROJECT_DIR$/Exercise2/Q9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build awesomeProject4/Exercise2/Q11 (1)">
+    <configuration name="go build awesomeProject4/Exercise2/Q11 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Exercise2/Q11/Minimum.go" />
+      <package value="awesomeProject4/Exercise2/Q11" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject4/Exercise2/Q11" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Exercise2/Q11/Maximum.go" />
+      <package value="awesomeProject4/Exercise2/Q11" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject4/Exercise2/Q5" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Exercise2/Q5/Average.go" />
+      <package value="awesomeProject4/Exercise2/Q5" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject4/Exercise2/Q8" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Exercise2/Q8/varArgs.go" />
+      <package value="awesomeProject4/Exercise2/Q8" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject4/Exercise2/Q9" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject4" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Exercise2/Q9/Fibonacci.go" />
+      <package value="awesomeProject4/Exercise2/Q9" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awesomeProject4/Exercise2/Q11 (1)" />
+        <item itemvalue="Go Build.go build awesomeProject4/Exercise2/Q11" />
+        <item itemvalue="Go Build.go build awesomeProject4/Exercise2/Q9" />
+        <item itemvalue="Go Build.go build awesomeProject4/Exercise2/Q8" />
+        <item itemvalue="Go Build.go build awesomeProject4/Exercise2/Q5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576587305789">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="836" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.999@0.32.1920.999" timestamp="1576587305789" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4" timestamp="1576541728808">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/0.32.1920.999@0.32.1920.999" timestamp="1576541728808" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q1" timestamp="1576587155112">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q1/0.32.1920.999@0.32.1920.999" timestamp="1576587155112" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q1_(1)" timestamp="1576587223860">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q1_(1)/0.32.1920.999@0.32.1920.999" timestamp="1576587223860" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q1_(2)" timestamp="1576587327642">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q1_(2)/0.32.1920.999@0.32.1920.999" timestamp="1576587327642" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q3" timestamp="1576587611436">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q3/0.32.1920.999@0.32.1920.999" timestamp="1576587611436" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q3_(1)" timestamp="1576587632166">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise1/Q3_(1)/0.32.1920.999@0.32.1920.999" timestamp="1576587632166" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise2/Q11" timestamp="1576590299902">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise2/Q11/0.32.1920.999@0.32.1920.999" timestamp="1576590299902" />
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise2/Q11_(1)" timestamp="1576590316420">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state x="1114" y="159" width="642" height="744" key="#go_build_awesomeProject4/Exercise2/Q11_(1)/0.32.1920.999@0.32.1920.999" timestamp="1576590316420" />
+    <state width="914" height="293" key="GridCell.Tab.0.bottom" timestamp="1576590317104">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state width="914" height="293" key="GridCell.Tab.0.bottom/0.32.1920.999@0.32.1920.999" timestamp="1576590317104" />
+    <state width="914" height="293" key="GridCell.Tab.0.center" timestamp="1576590317103">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state width="914" height="293" key="GridCell.Tab.0.center/0.32.1920.999@0.32.1920.999" timestamp="1576590317103" />
+    <state width="914" height="293" key="GridCell.Tab.0.left" timestamp="1576590317102">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state width="914" height="293" key="GridCell.Tab.0.left/0.32.1920.999@0.32.1920.999" timestamp="1576590317102" />
+    <state width="914" height="293" key="GridCell.Tab.0.right" timestamp="1576590317104">
+      <screen x="0" y="32" width="1920" height="999" />
+    </state>
+    <state width="914" height="293" key="GridCell.Tab.0.right/0.32.1920.999@0.32.1920.999" timestamp="1576590317104" />
+  </component>
+</project>
